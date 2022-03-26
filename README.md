@@ -1,4 +1,4 @@
-# Adult/Child Musculoskeletal Model and Motion Analysis Comparison
+<h1 align="center">Adult/Child Musculoskeletal Model and Motion Analysis Comparison</h1>
 
 This is the repository of the project proposed for the course of *Medical Robotics*.
 
